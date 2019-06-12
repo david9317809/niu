@@ -1,0 +1,24 @@
+/*css選擇器*/ 
+/*標籤名稱選擇器*/ 
+body {background-color:#cccccc;text-align:center;}
+
+/*這是CSS*的註解*/
+
+    .title{
+        color:red;
+        font-weight:bold;
+        font-size:24px
+        }
+    .content{
+        color:gray;
+        border:1px dashed blue ;
+        padding:10px;
+        margin-top:10px
+        }
+    .keyword{
+        color:red
+        }
+    .underline{
+        text-decoration:underline
+    }
+    
